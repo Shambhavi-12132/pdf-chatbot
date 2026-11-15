@@ -1,0 +1,13 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+files/chroma_db/
+files/*.db
+files/tmp*.pdf
+
+.DS_Store
+Thumbs.db
